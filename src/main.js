@@ -1,6 +1,6 @@
-import Vue from 'vue'
-import App from './App.vue'
-import globalComponent from "./global.js";
+import Vue from 'vue';
+import App from './App.vue';
+import "./global.js";
 Vue.config.productionTip = false
 
 new Vue({
